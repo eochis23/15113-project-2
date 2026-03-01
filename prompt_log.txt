@@ -1,0 +1,72 @@
+I asked for my most significant prompts and here they are:
+"how do I start a new web project for a multiplayer chess game?"
+
+"set up a basic html and js file for the board"
+
+"give me the starter html for a 500px square board"
+
+"how do I get the piece set to show up?"
+
+"write a function for a standard crazyhouse starting position"
+
+"make the pieces draggable"
+
+"it lets me make illegal moves, how do I validate them?"
+
+"add a sidebar for the move history"
+
+"how do I add the reserve pockets to the sides?"
+
+"make captured pieces go into the reserve pocket"
+
+"create a promotion dialog for when a pawn hits the end"
+
+"add sounds for moves and captures"
+
+"how do I set up a local server for the backend?"
+
+"connect the frontend to the backend for real-time moves"
+
+"lock the board when it's not my turn"
+
+"how do I add cmu email login?"
+
+"set up a local database to save the game logs"
+
+"the pocket piece images are broken, fix the css urls"
+
+"make the chat auto-scroll to the bottom"
+
+"get this ready to deploy to render"
+
+"flip the board when a player is assigned to black"
+
+"placing a piece from the reserves doesn't work quite right"
+
+"what's being logged in the database and how can I see the database visually"
+
+"is there an online viewer?"
+
+"resigning doesn't sync, neither do draw offers or the chat"
+
+"ReferenceError: socket is not defined [with full server.js code]"
+
+"yes, also have the option to click the draw button again after offering to rescind offer"
+
+"make the new game start the search for an opponent again"
+
+"well, don't do that but have support for more than two players playing at once and random matchmaking"
+
+"it looks like it just matched a player with themself"
+
+"using emails is fine. In one tab a player matched with themself"
+
+"now show the records between the two players when the match starts"
+
+"it's stuck on waiting for opponent even with two accounts in different tabs"
+
+"the new game thing worked. it shows the record in the chat but not the player window. Also, delete the elo part"
+
+"what do I replace this with: <span id="player-record" class="record">0W - 0L - 0D</span>"
+
+"I need to add a feature myself without your help, what's a good idea for something fast?"
