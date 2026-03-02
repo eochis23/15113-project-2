@@ -1,0 +1,19 @@
+{
+  "name": "crazyhouse-client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "chessground": "^9.2.1",
+    "chessops": "^0.15.0",
+    "socket.io-client": "^4.8.3"
+  }
+}
